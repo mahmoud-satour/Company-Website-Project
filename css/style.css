@@ -1,0 +1,8 @@
+#btn:hover {
+    background: white!important;
+    color: orangered!important;
+    border-color: orangered!important;
+}
+html {
+    scroll-behavior: smooth;
+}
